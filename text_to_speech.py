@@ -1,7 +1,7 @@
 from gtts import gTTS
 import os
 
-myText = "Happy Birthday Zeeshan"
+myText = "Type what you want me to speak"
 
 language = 'en'
 
