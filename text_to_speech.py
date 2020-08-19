@@ -1,7 +1,7 @@
 from gtts import gTTS
 import os
 
-myText = "Type what you want me to speak"
+myText = input("Type what you want me to speak \n")
 
 language = 'en'
 
